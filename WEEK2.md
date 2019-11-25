@@ -39,11 +39,11 @@ scope:트랜잭션 정보를 찾아볼 수 있는 곳
 
 1. 컨트랙의 이름을 additiongame으로 설정
 2. 배포하는 순간 운영자 계정의 주소를 저장할 수 있는 상태변수를 만들고 생성자를 만든다.
-'''
+```
   constructor() public{
 	owner=msg.sender;
 		}
-'''
+```
     - 생성자의 역할 : 초기화
     - msg.sender : 배포하는데에 쓰이고 있는 계정, 현재 이 컨트랙을 호출하고 있는 사람. > owner 상태변수를 사용하여 블록체인에 영원히 저장
 3. environment(환경설정)을 BAOBAB으로 진행
@@ -55,20 +55,20 @@ scope:트랜잭션 정보를 찾아볼 수 있는 곳
 ### 3. 스마트계약2- 컨트랙의 잔액 불러오기
 
 1. 생성자 안에 함수 코드 작성
-'''
+```
 function getBalance() public  view             return(uint)
  함수        이름      가시성   타입(읽기 전용)  uint타입을 리턴
  
  return address(this).balance;
              ㄴadditiongame 자신의 트랜잭션
- '''
+```
  
 2. owner 계정에서 컨트랙 주소로 klay 송금
-'''
+```
 function deposit() public payable{}
 계정에서 solidity함수로 klay를 보낼 때 항상 payable 타입을 붙여야함
 그래야 함수에서 돈을 받을 수 있음 
-'''
+```
 
 3. 유효성 검사
 조건문을 사용하여 함수를 불러 온 계정이 ower계정인지 확인 
