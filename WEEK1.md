@@ -80,7 +80,7 @@ ex) 비트코인&이더리움: 최종성 부족, 확률론적 최종성만 제�
 
 Longest Chain Rule을 따른다.
 
-## <img src="https://user-images.githubusercontent.com/57217495/68380267-d7776300-0192-11ea-8bd9-5efe1b535075.png" width="90%"></img>
+![k-1](https://user-images.githubusercontent.com/53432869/69541820-74c4fa80-0fcd-11ea-9403-3ae28bb18bd1.png)
 
 ->어떤 것으로 정해질 지 모르는 상황, 이것을 명명하는게 fork
 이러한 분기문은 "컴퓨팅 파워를 낭비한다는 점에서" 비효율적이라고 할 수 있음.
