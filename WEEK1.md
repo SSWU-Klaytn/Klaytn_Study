@@ -80,7 +80,7 @@ ex) 비트코인&이더리움: 최종성 부족, 확률론적 최종성만 제�
 
 Longest Chain Rule을 따른다.
 
-#### <캡쳐1>
+## <img src="https://user-images.githubusercontent.com/57217495/68380267-d7776300-0192-11ea-8bd9-5efe1b535075.png" width="90%"></img>
 
 ->어떤 것으로 정해질 지 모르는 상황, 이것을 명명하는게 fork
 이러한 분기문은 "컴퓨팅 파워를 낭비한다는 점에서" 비효율적이라고 할 수 있음.
@@ -114,7 +114,7 @@ cf)비잔티움 문제: 어떤 사용자가 악의적으로 데이터를 변경�
 
 -블록 생성결과 접근 및 검증노드
 
-#### <캡처2>
+## <img src="https://user-images.githubusercontent.com/57217495/68380531-62585d80-0193-11ea-967f-dd13c95d2775.png" width="90%"></img>
 
 -> 2/3 이상이 허락 시 승인
 
@@ -155,7 +155,7 @@ cf)비잔티움 문제: 어떤 사용자가 악의적으로 데이터를 변경�
 
 ### 3. 네트워크 구조
 
-### <캡처3>
+## <img src="https://user-images.githubusercontent.com/57217495/68380845-f3c7cf80-0193-11ea-8ba8-87b5b36e8191.png" width="90%"></img>
 
 -크게 CNN, PNN, ENN으로 구분할 수 있으며, CNN과 PNN은 corecell network 를 구성하고, ENN은 Endpoint node network를 구성함.
 
@@ -188,7 +188,7 @@ cf) 하나의 코어 셸이 빠르다고 해서 전체 성능이 올라가는 �
 
 CN- 연결에 필요한 자원 제한적, 수가 한정적
 
-#### <캡처4>
+## <img src="https://user-images.githubusercontent.com/57217495/68379610-8b77ee80-0191-11ea-8923-90fdac5df371.png" width="90%"></img>
 
 결론:
 
