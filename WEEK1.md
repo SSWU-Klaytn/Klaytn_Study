@@ -114,7 +114,7 @@ cf)비잔티움 문제: 어떤 사용자가 악의적으로 데이터를 변경�
 
 -블록 생성결과 접근 및 검증노드
 
-## <img src="https://user-images.githubusercontent.com/57217495/68380531-62585d80-0193-11ea-967f-dd13c95d2775.png" width="90%"></img>
+![k-2](https://user-images.githubusercontent.com/53432869/69541996-d38a7400-0fcd-11ea-84a4-62eacde931d8.png)
 
 -> 2/3 이상이 허락 시 승인
 
@@ -155,7 +155,7 @@ cf)비잔티움 문제: 어떤 사용자가 악의적으로 데이터를 변경�
 
 ### 3. 네트워크 구조
 
-## <img src="https://user-images.githubusercontent.com/57217495/68380845-f3c7cf80-0193-11ea-8ba8-87b5b36e8191.png" width="90%"></img>
+![k-3](https://user-images.githubusercontent.com/53432869/69542022-e56c1700-0fcd-11ea-9840-9447c69a00ad.png)
 
 -크게 CNN, PNN, ENN으로 구분할 수 있으며, CNN과 PNN은 corecell network 를 구성하고, ENN은 Endpoint node network를 구성함.
 
@@ -188,7 +188,7 @@ cf) 하나의 코어 셸이 빠르다고 해서 전체 성능이 올라가는 �
 
 CN- 연결에 필요한 자원 제한적, 수가 한정적
 
-## <img src="https://user-images.githubusercontent.com/57217495/68379610-8b77ee80-0191-11ea-8923-90fdac5df371.png" width="90%"></img>
+![k-4](https://user-images.githubusercontent.com/53432869/69542027-e8ff9e00-0fcd-11ea-83fa-20e419c54e73.png)
 
 결론:
 
