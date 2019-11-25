@@ -166,14 +166,12 @@ Longest Chain Rule을 따른다.
 - CNN(합의노드) 참여 조건
   - physical core 가 40개 이상
   - 256 GBRAM
+  - 1년치의 데이터 약 14TB 저장
+  - 10G 네트워크
 
-3)1년치의 데이터 약 14TB 저장
-
-10G 네트워크
 cf) 하나의 코어 셸이 빠르다고 해서 전체 성능이 올라가는 것은 아님!
 
--PN(프록시 노드)이 여러 대 연결된 이유
-
+PN(프록시 노드)이 여러 대 연결된 이유
 CN- 연결에 필요한 자원 제한적, 수가 한정적
 
 ![k-4](https://user-images.githubusercontent.com/53432869/69542027-e8ff9e00-0fcd-11ea-83fa-20e419c54e73.png)
