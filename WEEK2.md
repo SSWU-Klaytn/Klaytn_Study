@@ -1,5 +1,5 @@
 # Klaytn-study-2
-
+* * *
 ## 섹션3. 클레이튼 덧셈게임 개발 with Klaytn Tools
 
 ### 1. 덧셈 게임 개요
