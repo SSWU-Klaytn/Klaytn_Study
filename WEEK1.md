@@ -37,6 +37,7 @@
 1. TPS: Transaction per second) 초당 몇개의 거래를 처리하는지 나타내는 지표
 
 > TPS가 높다는 것은 초당 처리량이 많다는 의미
+> </hr>
 > ex) VISA- tps 1700, 비트코인 - tps 7, 이더리움- tps 15-20
 > -> 현재 비트코인과 이더리움의 tps 가 VISA의 tps보다 현저히 낮기 때문에 VISA와 블록체인 시스템의 접목이 어려운 것이다!
 
