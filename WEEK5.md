@@ -13,4 +13,5 @@ BApp 개발 계획
 
 ![4](https://user-images.githubusercontent.com/53432869/70372352-18dd6880-1921-11ea-88d3-e4b4b26c10fa.PNG)
 
-## 
+## 역할분담
+
