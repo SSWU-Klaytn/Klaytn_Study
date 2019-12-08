@@ -48,7 +48,9 @@ npm run dev
 
 <img width="913" alt="6-1" src="https://user-images.githubusercontent.com/53432869/70371026-f8a5ad80-1910-11ea-8859-91256ead2ca4.PNG">
 
-
+#### 1.6 트랜잭션 확인
+- Klaytn scope를 통해 트랜잭션을 확인
+<img width="747" alt="9" src="https://user-images.githubusercontent.com/53432869/70391265-80c1ab00-1a16-11ea-8065-502e66309ded.PNG">
 
 
 ### WEEK 5 과제
