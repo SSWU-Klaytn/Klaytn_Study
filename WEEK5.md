@@ -1,7 +1,7 @@
 # Klaytn-study-5
 
 ## 목표
-BApp 개발 계획
+BApp 개발 계획 및 BApp 개발 시작
 
 ## 계획
 
@@ -25,6 +25,7 @@ BApp 개발 계획
 #### 2.2 마이 페이지
 
 ![3](https://user-images.githubusercontent.com/53432869/70372350-1713a500-1921-11ea-97a6-1d9b83cceaba.PNG)
+![4](https://user-images.githubusercontent.com/53432869/70372352-18dd6880-1921-11ea-88d3-e4b4b26c10fa.PNG)
 
 ##### 2.2.1 내 지갑정보 : 내 지갑주소와 잔액을 확인 가능한 페이지
 ##### 2.2.2내가 만든 프로젝트 : 내가 만든 프로젝트 정보를 확인할 수 있는 페이지(목표금액, 전체 후원 금액, 게시자, 후원자 목록)
@@ -34,8 +35,6 @@ BApp 개발 계획
 #### 2.3 프로젝트 페이지
 
 ![2](https://user-images.githubusercontent.com/53432869/70372348-1549e180-1921-11ea-96c6-1f2399c021be.PNG)
-
-![4](https://user-images.githubusercontent.com/53432869/70372352-18dd6880-1921-11ea-88d3-e4b4b26c10fa.PNG)
 
 ##### 2.3.1 후원현황 : 프로젝트의 후원율 확인
 ##### 2.3.2 후원하기 : 프로젝트를 후원할 수 있는 기능
