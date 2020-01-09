@@ -4,7 +4,7 @@
 Dapp
 
 ## DApp 주제
-기부형 크라우드 펀딩 BApp
+기부형 크라우드 펀딩 BApp : 기능 구체화 및 화면 구현
 
 ## 개발 환경
 
@@ -26,7 +26,6 @@ Dapp
   - 모든프로젝트 : 게시된 모든 프로젝트를 볼 수 있는 페이지
   - 인기 프로젝트 : 일정 기간 동안 가장 후원율이 높은 프로젝트 순으로 정렬한 페이지
   - 분야별 프로젝트 : 프로젝트를 분야별로 정렬한 페이지
-  - 인기 프로젝트와 분야별 프로젝트는 개발 진행중이다.
   
 <img width="900" alt="4" src="https://user-images.githubusercontent.com/53432869/72082925-52e8c280-3344-11ea-8fab-5105c6f16eff.PNG">
 
@@ -45,6 +44,32 @@ Dapp
 
 ### 2. 마이 페이지
 
+### 2.1 내 지갑 정보
+![screencapture-file-C-Users-jkc60-projects-c-src-mypage-html-2020-01-10-01_07_43](https://user-images.githubusercontent.com/53432869/72083841-cc34e500-3345-11ea-8ee0-28e65949a893.png)
 
+### 페이지 기능
+- 나의 계정 주소와 잔액 확인
+
+### 2.2 내가 만든 프로젝트
+![screencapture-file-C-Users-jkc60-projects-c-src-myproject-html-2020-01-10-01_07_52](https://user-images.githubusercontent.com/53432869/72083848-cd661200-3345-11ea-8ed3-cacb01df4d20.png)
+
+### 페이지 기능
+- 내가 올린 프로젝트 게시글 확인
+
+### 2.3 내 후원 정보
+![screencapture-file-C-Users-jkc60-projects-c-src-investment-html-2020-01-10-01_08_55](https://user-images.githubusercontent.com/53432869/72083852-cf2fd580-3345-11ea-96be-ac32e0fab00d.png)
+
+### 페이지 기능
+- 내가 후원한 프로젝트 목록 확인
 
 ### 3. 프로젝트 페이지
+
+![6](https://user-images.githubusercontent.com/53432869/72084796-837e2b80-3347-11ea-978a-e39b118b4e0a.png)
+
+### 페이지 기능
+<img width="900" alt="8" src="https://user-images.githubusercontent.com/53432869/72085337-7a418e80-3348-11ea-9133-b21e68ad7f06.PNG">
+- 프로젝트 게시글 확인
+- 프로젝트 목표 금액 확인
+- 펀딩 기간 확인
+- 후원 금액 확인
+- 후원 
