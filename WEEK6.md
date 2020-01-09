@@ -17,9 +17,9 @@ Dapp
 ### 1. 메인 화면
 ![1](https://user-images.githubusercontent.com/53432869/72081776-6eeb6480-3342-11ea-9d1a-e581f02d0179.png)
 
-#### 페이지 기능
+### 페이지 기능
 
-<img width="700" alt="2" src="https://user-images.githubusercontent.com/53432869/72082798-161ccb80-3344-11ea-81e7-8d4747c16704.PNG">
+<img width="900" alt="2" src="https://user-images.githubusercontent.com/53432869/72082798-161ccb80-3344-11ea-81e7-8d4747c16704.PNG">
 
 - 토글 메뉴
   - 마이페이지 : 계정 정보를 확인할 수 있는 페이지
@@ -28,17 +28,17 @@ Dapp
   - 분야별 프로젝트 : 프로젝트를 분야별로 정렬한 페이지
   - 인기 프로젝트와 분야별 프로젝트는 개발 진행중이다.
   
-<img width="700" alt="4" src="https://user-images.githubusercontent.com/53432869/72082925-52e8c280-3344-11ea-8fab-5105c6f16eff.PNG">
+<img width="900" alt="4" src="https://user-images.githubusercontent.com/53432869/72082925-52e8c280-3344-11ea-8fab-5105c6f16eff.PNG">
 
 - 로고
   - index 페이지로 돌아오는 기능
   
-<img width="700" alt="3" src="https://user-images.githubusercontent.com/53432869/72082805-1a48e900-3344-11ea-9c3e-45f9b809e250.PNG">
+<img width="900" alt="3" src="https://user-images.githubusercontent.com/53432869/72082805-1a48e900-3344-11ea-9c3e-45f9b809e250.PNG">
 
 - 로그인
   - key store file과 비밀번호를 통한 로그인 기능
   
-<img width="700" alt="5" src="https://user-images.githubusercontent.com/53432869/72083103-99d6b800-3344-11ea-81f2-2187a20539a1.PNG">
+<img width="900" alt="5" src="https://user-images.githubusercontent.com/53432869/72083103-99d6b800-3344-11ea-81f2-2187a20539a1.PNG">
 
 - view
   - 프로젝트 페이지로 연결하는 기능
