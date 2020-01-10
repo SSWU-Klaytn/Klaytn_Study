@@ -21,6 +21,8 @@
 
 <img width="900" alt="capture_login2" src="https://user-images.githubusercontent.com/53432869/72120251-b30a5380-339a-11ea-9230-a0fea1c063eb.png">
 
+<img width="900" alt="capture_sidebar" src="https://user-images.githubusercontent.com/53432869/72125944-bb1fbe80-33ad-11ea-8ac8-fda1fdbf9249.PNG">
+
 - index.html
 
 ```
@@ -56,6 +58,8 @@
 
 - index.js
   - handleImport
+  - handlePassword
+  - handleLogin
   
 ```
 handleImport: async function () {
@@ -75,22 +79,13 @@ handleImport: async function () {
         return;
       }
     }   
-  }
-```
-
-- index.js
-  - handlePassword
-
-```
+  },
+  
 handlePassword: async function () {
     this.auth.password = event.target.value;
-  }
-```
-
-- index.js
-  - handleLogin
-
-```
+  },
+  
+  
 handleLogin: async function () {
     if (this.auth.accessType === 'keystore') { 
       try {
@@ -103,7 +98,10 @@ handleLogin: async function () {
   }
 ```
 
+
 ### 2. 마이페이지
+
+- 계정 주소 확인과 지갑 잔액 확인 기능
 
 ![capture_mypage html](https://user-images.githubusercontent.com/53432869/72121344-1fd31d00-339e-11ea-852f-9520fe5aab58.png)
 
@@ -144,6 +142,8 @@ changeUI: async function (walletInstance) {
 ```
 
 ### 3. 후원 기능
+
+- 후원 금액 확인과 후원 
 
 <img width="634" alt="capture_projectstory html_후원" src="https://user-images.githubusercontent.com/53432869/72121604-e64ee180-339e-11ea-9590-986e7af0d3a3.png">
 
@@ -204,7 +204,7 @@ deposit: async function () {
 
 ```
 
-4. 후원 확인
+4. 후원 현황 확인
 
 ![screencapture-file-C-Users-jkc60-projects-c-src-investment-html-2020-01-10-01_08_55](https://user-images.githubusercontent.com/53432869/72121829-86a50600-339f-11ea-93c5-0642a71fb3e0.png)
 
