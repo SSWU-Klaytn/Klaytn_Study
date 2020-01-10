@@ -103,7 +103,7 @@ handleLogin: async function () {
   }
 ```
 
-2. 마이페이지
+### 2. 마이페이지
 
 ![capture_mypage html](https://user-images.githubusercontent.com/53432869/72121344-1fd31d00-339e-11ea-852f-9520fe5aab58.png)
 
@@ -142,7 +142,7 @@ changeUI: async function (walletInstance) {
   },
 '''
 
-3. 후원 기능
+### 3. 후원 기능
 
 <img width="634" alt="capture_projectstory html_후원" src="https://user-images.githubusercontent.com/53432869/72121604-e64ee180-339e-11ea-9590-986e7af0d3a3.png">
 
@@ -205,7 +205,7 @@ deposit: async function () {
 
 4. 후원 확인
 
-(https://user-images.githubusercontent.com/53432869/72121829-86a50600-339f-11ea-93c5-0642a71fb3e0.png)
+![screencapture-file-C-Users-jkc60-projects-c-src-investment-html-2020-01-10-01_08_55](https://user-images.githubusercontent.com/53432869/72121829-86a50600-339f-11ea-93c5-0642a71fb3e0.png)
 
 -index.html
 
