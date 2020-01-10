@@ -22,7 +22,7 @@
 2. 페이지 이동이 불가능하였다. 
 <img width="668" alt="13" src="https://user-images.githubusercontent.com/53432869/72123203-d4bc0880-33a3-11ea-9f03-553dcc2d59e4.PNG">
 
-- server.js
+- server.js를 추가하였다. 
 
 ```
 var http = require('http');
