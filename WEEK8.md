@@ -129,5 +129,5 @@ plugins: [
   ],
 ```
 
-### 완성
+## 완성
 [togetherwegetall](https://github.com/SSWU-Klaytn/togetherwegetall)
