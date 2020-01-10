@@ -109,7 +109,7 @@ handleLogin: async function () {
 
 - mypage.html
 
-'''
+```
 <div class="media text-muted pt-3">
               <svg class="bd-placeholder-img mr-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 32x32"><title>Placeholder</title><rect width="100%" height="100%" fill="#e83e8c"/><text x="50%" y="50%" fill="#e83e8c" dy=".3em">32x32</text></svg>
               <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
@@ -126,11 +126,12 @@ handleLogin: async function () {
                 <strong class="d-block text-gray-dark">당신의 잔액은</strong>
                 <strong class="d-block text-gray-dark" id="walletBalance"></strong></p>
             </div>
-'''
-
+            
+ ```
+ 
 - index.js
 
-'''
+```
 changeUI: async function (walletInstance) {
 
     // 계정 주소
@@ -140,7 +141,7 @@ changeUI: async function (walletInstance) {
     $('#walletBalance').append(await this.callBalance(walletInstance) + ' 입니다.');
     
   },
-'''
+```
 
 ### 3. 후원 기능
 
@@ -163,7 +164,7 @@ changeUI: async function (walletInstance) {
 
 - index.js
 
-'''
+```
 changeUI: async function (walletInstance) {
 
     // 컨트랙트 잔액
@@ -171,7 +172,7 @@ changeUI: async function (walletInstance) {
     
   },
   
-'''
+```
 
 ```
 deposit: async function () {
