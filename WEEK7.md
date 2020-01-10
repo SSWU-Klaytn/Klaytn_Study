@@ -14,6 +14,8 @@
   
 ## 기능 구현
 
+[Klaytn 클레이튼 블록체인 어플리케이션 만들기 - 이론과 실습](https://www.inflearn.com/course/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC#) 강의를 참고하여 구현하였습니다. 
+
 ### 1. 로그인
 - key store file과 비밀번호를 통한 로그인 기능
 
@@ -163,16 +165,8 @@ changeUI: async function (walletInstance) {
 
 
 - index.js
-
-```
-changeUI: async function (walletInstance) {
-
-    // 컨트랙트 잔액
-    $('#contractBalance').append(cav.utils.fromPeb(await this.callContractBalance(), "KLAY") + ' KLAY');
-    
-  },
-  
-```
+  - deposit
+  - changeUI
 
 ```
 deposit: async function () {
@@ -202,6 +196,13 @@ deposit: async function () {
     }
   },
 
+changeUI: async function (walletInstance) {
+
+    // 컨트랙트 잔액
+    $('#contractBalance').append(cav.utils.fromPeb(await this.callContractBalance(), "KLAY") + ' KLAY');
+    
+  }
+  
 ```
 
 4. 후원 현황 확인
@@ -215,6 +216,8 @@ deposit: async function () {
 ```
 
 - index.js
+  - myurl
+  - changeUI
 
 ```
 myurl: function (walletInstance) {
