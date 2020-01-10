@@ -14,13 +14,17 @@
   
 ## 합치기
 
-### 문제 상황
+### 문제 상황 1
 
 1. 이미지가 로드되지 않았다.
 <img width="904" alt="10" src="https://user-images.githubusercontent.com/53432869/72123199-d259ae80-33a3-11ea-92e0-5c3ffdb4b6bf.PNG">
 
+### 문제 상황 2
+
 2. 페이지 이동이 불가능하였다. 
 <img width="668" alt="13" src="https://user-images.githubusercontent.com/53432869/72123203-d4bc0880-33a3-11ea-9f03-553dcc2d59e4.PNG">
+
+### 문제 해결 : 문제 상황 1, 2
 
 - server.js를 추가하였다. 
 
@@ -92,10 +96,14 @@ http.createServer( (request, response) => {
 }).listen(8080)
 ```
 
+### 문제상황 3
+
 3. 이미지와 페이지는 정상적으로 동작하였지만 자바스크립트가 동작하지 않는 문제 발생
 
 <img width="900" alt="11" src="https://user-images.githubusercontent.com/53432869/72123466-b0146080-33a4-11ea-81ea-b4170f6fe43e.PNG">
 <img width="700" alt="12" src="https://user-images.githubusercontent.com/53432869/72123472-b4d91480-33a4-11ea-92ab-d6c19c5eb2de.PNG">
+
+### 문제 해결 : 문제상황 3
 
 - 시행착오를 반복하다 처음으로 돌아와 webpack.config.js 파일을 수정해주었다.
 
@@ -131,3 +139,13 @@ plugins: [
 
 ## 완성
 [togetherwegetall](https://github.com/SSWU-Klaytn/togetherwegetall)
+
+## 보완점
+- 크라우드 펀딩에 맞는 컨트랙트 제작(목표 금액, 목표 기간 등)
+- 개인키를 사용한 로그인 기능 추가 구현
+- 프로젝트 올리기 기능 구현
+- 인기 프로젝트와 분야별 프로젝트 구현
+- 후원 현황 확인
+- 후원율 확인 
+- 내가 만든 프로젝트 페이지 구현
+
